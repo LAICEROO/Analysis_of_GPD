@@ -18,7 +18,7 @@ To run this script, you need to have R installed along with the following packag
 2. Run the R script in your R environment.
 
 ## Data
-- https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?end=2020&start=2020&view=map&year=1990
+- [GPD](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?end=2020&start=2020&view=map&year=1990)
 - [GPD per capita](https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?view=map&year=2020)
 
 ## Visualizations
